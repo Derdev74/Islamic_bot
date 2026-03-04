@@ -1,0 +1,54 @@
+[
+  {
+    "id": "abdulbasit",
+    "name_ar": "عبد الباسط عبد الصمد",
+    "name_en": "Abdul Basit Abdul Samad",
+    "server": "server7",
+    "code": "AbdAlBaset",
+    "quran_com_recitation_id": 1,
+    "weight": 2,
+    "_verify_url": "https://server7.mp3quran.net/AbdAlBaset/001.mp3"
+  },
+  {
+    "id": "minshawi",
+    "name_ar": "محمد صديق المنشاوي",
+    "name_en": "Muhammad Siddiq Al-Minshawi",
+    "server": "server10",
+    "code": "Minshawy",
+    "quran_com_recitation_id": 5,
+    "weight": 2,
+    "_verify_url": "https://server10.mp3quran.net/Minshawy/001.mp3"
+  },
+  {
+    "id": "shuraim",
+    "name_ar": "سعود الشريم",
+    "name_en": "Saud Al-Shuraim",
+    "server": "server7",
+    "code": "Shuraym",
+    "quran_com_recitation_id": 3,
+    "weight": 2,
+    "_verify_url": "https://server7.mp3quran.net/Shuraym/001.mp3"
+  },
+  {
+    "id": "dossary",
+    "name_ar": "ياسر الدوسري",
+    "name_en": "Yasser Al-Dossari",
+    "server": "server11",
+    "code": "Dussary",
+    "quran_com_recitation_id": null,
+    "weight": 2,
+    "_note": "No Quran.com ID — will use ayah-timed subtitles (no word highlighting)",
+    "_verify_url": "https://server11.mp3quran.net/Dussary/001.mp3"
+  },
+  {
+    "id": "lohaidan",
+    "name_ar": "محمد اللحيدان",
+    "name_en": "Muhammad Lohaidan",
+    "server": "server9",
+    "code": "Lhidan",
+    "quran_com_recitation_id": null,
+    "weight": 2,
+    "_note": "No Quran.com ID — will use ayah-timed subtitles. Verify URL below.",
+    "_verify_url": "https://server9.mp3quran.net/Lhidan/001.mp3"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "filename": "template_kaaba.mp4",
+    "description": "Kaaba aerial view",
+    "suitable_for": ["reel", "adkar"]
+  },
+  {
+    "filename": "template_madinah.mp4",
+    "description": "Madinah Prophet's Mosque",
+    "suitable_for": ["reel", "adkar"]
+  },
+  {
+    "filename": "template_nature_1.mp4",
+    "description": "Peaceful nature — forest",
+    "suitable_for": ["reel", "adkar", "hadith"]
+  },
+  {
+    "filename": "template_nature_2.mp4",
+    "description": "Peaceful nature — water",
+    "suitable_for": ["reel", "adkar"]
+  },
+  {
+    "filename": "template_sky.mp4",
+    "description": "Sky and clouds",
+    "suitable_for": ["reel", "adkar"]
+  }
+]

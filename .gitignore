@@ -1,0 +1,65 @@
+# ── Secrets & credentials ─────────────────────────────────────
+.env
+*.pem
+*.key
+
+# ── Claude AI session data ────────────────────────────────────
+.claude/
+
+# ── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Bot runtime files ─────────────────────────────────────────
+# Database (contains post history — back it up manually, never commit)
+bot.db
+bot.db-shm
+bot.db-wal
+
+# Temp output files (auto-cleared by the bot)
+output/
+
+# Log files
+logs/
+*.log
+
+# ── Assets (large binary files — keep local only) ────────────
+# Downloaded Quran pages (604 PNGs, ~500MB total)
+data/quran/pages/
+
+# Your personal template videos
+assets/templates/*.mp4
+
+# Your personal background images (optional — commit if you want)
+# assets/backgrounds/
+
+# Your custom adkar photos (optional — commit if you want)
+# assets/adkar_sabah/
+# assets/adkar_masae/
+
+# ── IDEs & OS ─────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Plan & design docs (local only) ──────────────────────────
+Plan/

@@ -1,0 +1,36 @@
+# Islamic Instagram Bot — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Scheduling
+APScheduler==3.10.4
+
+# Video editing
+moviepy==1.0.3
+ffmpeg-python==0.2.0
+
+# Image rendering & Arabic text
+Pillow==10.4.0
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
+
+# HTTP requests
+requests==2.32.3
+
+# AWS / Cloudflare R2
+boto3==1.35.0
+
+# Telegram bot (for human-in-the-loop review)
+# python-telegram-bot is NOT used — we use raw requests to Telegram Bot API directly
+
+# Environment variable loading (.env file)
+python-dotenv==1.0.1
+
+# Note: No speech recognition dependency needed.
+# Reciters without Quran.com word timestamps use the built-in ayah-timed
+# subtitle fallback (zero extra dependencies, works offline).
+
+# Timezone support (required by APScheduler)
+pytz==2024.2
+
+# Numeric processing (used by moviepy/subtitle engine)
+numpy==1.26.4

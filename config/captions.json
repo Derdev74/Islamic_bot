@@ -1,0 +1,30 @@
+{
+  "hashtag_sets": [
+    "#القرآن_الكريم #تلاوة #إسلام #الله #سبحان_الله #مسلم #ذكر_الله #دعاء",
+    "#quran #islam #islamic #muslim #allah #subhanallah #alhamdulillah #islamicreminders",
+    "#تلاوة_قرآنية #قرآن #استغفار #اذكار #دين_الإسلام #الله_أكبر",
+    "#dailyquran #quranicverse #islamiccontent #muslimlife #dhikr #islamicpost",
+    "#القرآن_الكريم #نور_القرآن #حفظ_القرآن #تدبر_القرآن #islamicquotes"
+  ],
+  "reel_captions": [
+    "﴿{surah_name}﴾ — الآية {ayah_start}–{ayah_end}\nبصوت: {reciter_name}\n\nاستمع وتدبّر كلام الله...\n\n{hashtags}",
+    "🎙️ تلاوة من سورة ﴿{surah_name}﴾\nبصوت الشيخ {reciter_name}\n\nوَرَتِّلِ الْقُرْآنَ تَرْتِيلًا\n\n{hashtags}",
+    "سورة ﴿{surah_name}﴾ — الآيات {ayah_start} إلى {ayah_end}\n🕌 بصوت: {reciter_name}\n\n{hashtags}"
+  ],
+  "hadith_captions": [
+    "📜 حديث شريف\n\n{hashtags}\n#حديث #سنة_النبي #محمد_صلى_الله_عليه_وسلم",
+    "💫 من هدي النبي ﷺ\n\n{hashtags}\n#الحديث_النبوي #سنة #الرسول"
+  ],
+  "wird_captions": [
+    "📖 وردك اليومي — الصفحة {page}\nاقرأ معنا القرآن الكريم صفحةً بصفحة 🌟\n\n#ورد_قرآني #القرآن_الكريم #wird #quran",
+    "📖 وردك من القرآن — الصفحة {page} من 604\nبارك الله فيكم جميعاً\n\n#وردي #قرآن_يومي #wird_daily"
+  ],
+  "adkar_sabah_captions": [
+    "🌅 أذكار الصباح\nابدأ يومك بذكر الله\n\n#اذكار_الصباح #صباح_الذكر #أذكار #ذكرالله",
+    "☀️ أذكار الصباح المباركة\nاللهم بارك لنا في صباحنا\n\n#اذكار_الصباح #أذكار_النبي #morning_dhikr"
+  ],
+  "adkar_masae_captions": [
+    "🌙 أذكار المساء\nأتمّ مساءك بذكر الله\n\n#اذكار_المساء #مساء_الذكر #أذكار #ذكرالله",
+    "🌟 أذكار المساء المباركة\nاللهم بارك لنا في مسائنا\n\n#اذكار_المساء #أذكار_النبي #evening_dhikr"
+  ]
+}
